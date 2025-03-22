@@ -1,4 +1,4 @@
-# Compania de Aviación
+# Compañía de Aviación
 Una compañía de aviación ofrece un programa de incentivos basado en la acumulación de millas. A mayor cantidad de viajes que realizan los 
 pasajeros, mayor será la cantidad de millas acumuladas y mejor será el premio al que el pasajero podrá acceder.
 Para esto, se dispone de las siguientes planillas (archivos):
